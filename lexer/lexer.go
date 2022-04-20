@@ -1,6 +1,6 @@
 package lexer
 
-import "hawk/token"
+import "github.com/alwindoss/hawk/token"
 
 type Lexer struct {
 	input        string

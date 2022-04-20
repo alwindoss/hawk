@@ -1,8 +1,9 @@
 package lexer
 
 import (
-	"hawk/token"
 	"testing"
+
+	"github.com/alwindoss/hawk/token"
 )
 
 func TestNextToken(t *testing.T) {
